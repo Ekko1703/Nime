@@ -1,0 +1,89 @@
+{
+  "series": [
+    {
+      "id": "1",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "description": "Tanjiro Kamado es un joven que se convierte en cazador de demonios después de que su familia es asesinada y su hermana es transformada en demonio.",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477",
+      "videoUrl": "https://drive.google.com/file/d/1s6CV767tHG8f7lCntn-WEUKxWfHL9bGQ/view",
+      "genre": ["Acción", "Fantasía", "Aventura"],
+      "year": 2024,
+      "type": "series",
+      "rating": 4.8,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "s1e1",
+              "title": "EP1: Crueldad",
+              "description": "Tanjiro Kamado descubre que su familia ha sido asesinada y su hermana convertida en demonio.",
+              "thumbnailUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477",
+              "videoUrl": "https://drive.google.com/file/d/1s6CV767tHG8f7lCntn-WEUKxWfHL9bGQ/view",
+              "duration": "23m",
+              "episodeNumber": 1
+            },
+            {
+              "id": "s1e2",
+              "title": "EP2: El instructor Sakonji Urokodaki",
+              "description": "Tanjiro comienza su entrenamiento como cazador de demonios.",
+              "thumbnailUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477",
+              "videoUrl": "https://drive.google.com/file/d/1s6CV767tHG8f7lCntn-WEUKxWfHL9bGQ/view",
+              "duration": "23m",
+              "episodeNumber": 2
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "id": "s2e1",
+              "title": "EP1: El Tren del Infinito",
+              "description": "Tanjiro y sus amigos abordan un misterioso tren donde ocurren extrañas desapariciones.",
+              "thumbnailUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477",
+              "videoUrl": "https://drive.google.com/file/d/1s6CV767tHG8f7lCntn-WEUKxWfHL9bGQ/view",
+              "duration": "23m",
+              "episodeNumber": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "id": "m1",
+      "title": "Your Name",
+      "description": "Dos extraños descubren que están conectados de una manera bizarra y deben buscar el uno al otro.",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1578632292335-df3abbb0d586",
+      "videoUrl": "https://drive.google.com/file/d/1s6CV767tHG8f7lCntn-WEUKxWfHL9bGQ/view",
+      "genre": ["Romance", "Fantasía"],
+      "year": 2016,
+      "type": "movie",
+      "rating": 4.9,
+      "duration": "1h 46m"
+    }
+  ],
+  "manga": [
+    {
+      "id": "mg1",
+      "title": "One Piece",
+      "description": "Las aventuras de Monkey D. Luffy y su tripulación pirata en busca del tesoro más grande del mundo.",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477",
+      "type": "manga",
+      "rating": 4.9,
+      "chapters": [
+        {
+          "id": "ch1",
+          "chapterNumber": 1,
+          "title": "Romance Dawn",
+          "pages": [
+            "https://images.unsplash.com/photo-1578632767115-351597cf2477",
+            "https://images.unsplash.com/photo-1578632292335-df3abbb0d586"
+          ]
+        }
+      ]
+    }
+  ]
+}
